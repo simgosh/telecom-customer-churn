@@ -1,5 +1,5 @@
+# Assessing Customer Churn Using Machine Learning
 # Telecom-Customer-Churn
-Assessing Customer Churn Using Machine Learning
 
 Project Description
 Dive into India's telecom sector to analyze customer churn. Utilize pandas and machine learning to study datasets from top telecom firms, revealing demographic and usage patterns.
